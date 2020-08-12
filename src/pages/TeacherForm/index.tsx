@@ -154,9 +154,6 @@ export const TeacherForm: React.FC = () => {
               <button type="button" onClick={() => addNewScheduleItem()}>
                 + Novo horário
               </button>{' '}
-              <button type="button" onClick={() => addNewScheduleItem()}>
-                + Novo horário
-              </button>{' '}
             </legend>
 
             {scheduleItems.map((scheduleItem, index) => {

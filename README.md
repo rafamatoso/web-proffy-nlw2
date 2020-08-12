@@ -1,14 +1,13 @@
 # Proffy
 
 <p align="center">
-<img alt="Project Name" src="https://img.shields.io/badge/Project%20Name-Proffy-7259c1">
-<img alt="Made by Rafael Matoso" src="https://img.shields.io/badge/Made%20by-Rafa%20Matoso-7259c1">
-<img alt="GitHub Repository Size" src="https://img.shields.io/github/repo-size/rafamatoso/web-proffy-nlw2?color=7259c1">
-<img alt="Used Languages" src="https://img.shields.io/github/languages/count/rafamatoso/web-proffy-nlw2?color=7259c1">
-<img alt="Top Used Language" src="https://img.shields.io/github/languages/top/rafamatoso/web-proffy-nlw2?color=7259c1">
+    <img alt="Project Name" src="https://img.shields.io/badge/Project%20Name-Proffy-7259c1">
+    <img alt="Made by Rafael Matoso" src="https://img.shields.io/badge/Made%20by-Rafa%20Matoso-7259c1">
+    <img alt="GitHub Repository Size" src="https://img.shields.io/github/repo-size/rafamatoso/web-proffy-nlw2?color=7259c1">
+    <img alt="Used Languages" src="https://img.shields.io/github/languages/count/rafamatoso/web-proffy-nlw2?color=7259c1">
+    <img alt="Top Used Language" src="https://img.shields.io/github/languages/top/rafamatoso/web-proffy-nlw2?color=7259c1">
 </p>
 
-<p align="center">
 <p align="center">
     <a href="https://nextlevelweek.com/inscricao/2" target="blank"><img src="https://res.cloudinary.com/rafamatoso/image/upload/v1597101209/Projects/nlw2/web/1landing_llbsxc.jpg" width="500" alt="Next Level Week 2 logo" style='padding-right: 10px'/></a>
      <a href="https://nextlevelweek.com/inscricao/2" target="blank"><img src="https://res.cloudinary.com/rafamatoso/image/upload/v1597101209/Projects/nlw2/web/2landing-mob_y0krwn.jpg" width="156" alt="Next Level Week 2 logo" /></a>
@@ -47,6 +46,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e6953080-7e16-4f6a-b3f4-cc047a96d0d6/deploy-status)](https://app.netlify.com/sites/proffy-rm/deploys)
 
 ---
 
